@@ -30,7 +30,9 @@ nike-ayakkabi-sitesi/
 │ └── nike.png
 
 ## Ekran Görüntüsü
-![Shoe-Webs-ezgif com-cut](https://github.com/dilayercan/Shoe-Website/assets/69506908/fd48a1b2-3940-4a0b-8813-bff90ac3e49f)
+
+![Shoe-Webs](https://github.com/dilayercan/Shoe-Website/assets/69506908/39ec15b0-b253-46d8-bfb1-1e77954a5e53)
+
 
 
 
